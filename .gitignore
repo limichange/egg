@@ -12,5 +12,6 @@ run
 .tmp
 docs/CONTRIBUTING.md
 docs/README.md
+docs/db.json
 
 !test/fixtures/apps/loader-plugin/node_modules
