@@ -2,13 +2,14 @@
 
 export PATH=./node_modules/.bin:$PATH
 
-cp README.md CONTRIBUTING.md docs/
+server() {
+  hexo --cwd docs server -l
+}
 
-echo "Building Gitbook"
-gitbook build ./docs -o _site || exit $?
+action=$1
 
-echo "Building Jsdoc"
-doc -d ./_site/api --verbose || exit $?
-
-echo "Copying thumb"
-cp docs/logo/thumb.png _site || exit $?
+if [ $action = 'server' ]; then
+  server
+elif [ $action = 'deploy' ]; then
+  deploy
+fi
