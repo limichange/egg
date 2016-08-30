@@ -1,4 +1,4 @@
-![](https://cloud.githubusercontent.com/assets/985607/16881873/c1612cf8-4aee-11e6-9b51-e95412750930.png)
+![](https://zos.alipayobjects.com/rmsportal/dgWsPDTdPXCcAhS.svg)
 
 A web framework's framework for Node.js.
 
