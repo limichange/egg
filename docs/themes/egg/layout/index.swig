@@ -24,7 +24,7 @@
         <div class="info-img">
           <img src="https://zos.alipayobjects.com/rmsportal/PRxOrrjBrTcACnE.svg" />
         </div>
-        <h4>cluster management</h4>
+        <h4>Cluster Management</h4>
         <div>aaa</div>
       </li>
       <li>
@@ -38,7 +38,7 @@
         <div class="info-img">
           <img src="https://zos.alipayobjects.com/rmsportal/GAldlsiewJjYaBp.svg" />
         </div>
-        <h4>customimation</h4>
+        <h4>Customization</h4>
         <div>aaa</div>
       </li>
     </ul>
