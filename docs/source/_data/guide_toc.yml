@@ -1,36 +1,18 @@
-Overview: /guide/
-QuickStart: /guide/quickstart.html
 Guide:
-  Context: /guide/context.hml
-  Application: /guide/application.html
-  Request: /guide/request.html
-  Response: /guide/response.html
-  Middleware: /guide/middleware.html
-  Controller: /guide/controller.html
-  Router: /guide/router.html
-  Service: /guide/service.html
-  Config: /guide/config.html
-  Locals: /guide/locals.html
-  Helper: /guide/helper.html
-  Utils: /guide/utils.html
-  Form: /guide/form.html
-  View: /guide/view.html
-  Logger: /guide/logger.html
-  Extend: /guide/extend.html
-  Plugins: /guide/plugins.html
-Advanced Guide:
-  "Cluster Management": /advanced/cluster.html
-  "Loader in Depth": /advanced/loader.html
-  Security: /advanced/security.html
+  Overview: /guide/
+  QuickStart: /guide/quickstart.html
+  "Write Application": /guide/write_application.html
+  "Core Plugins": /guide/plugins.html
+  Deployment: /guide/deployment.html
+  "Unit Test": /guide/unittest.html
+Advanced:
+  "Write Framework": /advanced/write_framework.html
+  "Write Plugin": /advanced/write_plugin.html
+  Cluster: /advanced/cluster.html
+  Loader: /advanced/loader.html
   Singleton: /advanced/singleton.html
-  "How to write framework": /advanced/how_to_write_framework.md
-  "How to write plugin": /advanced/how_to_write_plugin.md
-Best Practice:
-  Progressively-enhanced: /best_practice/index.html
-  "Local Development": /best_practice/index.html
-  "Unit Test": /best_practice/index.html
-  Deployment: /best_practice/index.html
-  "Dependence Management": /best_practice/index.html
-API: /api/
-Contributing: /contributing.html
-FAQ: /faq.html
+  "Best Practice": /advanced/best_practice.html
+Community:
+  Contributing: /contributing.html
+  Member Guide: /member_guide.html
+  FAQ: /faq.html
