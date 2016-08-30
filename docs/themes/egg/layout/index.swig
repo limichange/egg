@@ -10,9 +10,9 @@
 
   <div class="block version center">
     <div>
-      <span>Latest: 1.2.1</span>
-      <span>Stable: 1.1.0</span>
-      <span>Nodejs > 4.x</span>
+      <span>Latest: <a>1.2.1</a></span>
+      <span>Stable: <a>1.1.0</a></span>
+      <span>Nodejs >  <a>4.x</a></span>
     </div>
   </div>
 
