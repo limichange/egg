@@ -4,12 +4,10 @@
       <a href="/"><img src="https://zos.alipayobjects.com/rmsportal/NhoSIAympGgsRee.svg"></a>
     </h1>
     <ul>
-      <li><a href="/guide">Guide</a></li>
-      <li><a href="/api">API</a></li>
-      <li><a href="/plugins">Plugins</a></li>
-      <li><a href="/release">Release</a></li>
-      <li>Twitter</li>
-      <li>Github</li>
+      {{ menu_link() }}
+      <li>
+        <iframe src="https://ghbtns.com/github-btn.html?user=eggjs&repo=egg&type=star&count=false" frameborder="0" scrolling="0" width="54px" height="20px"></iframe>
+      </li>
     </ul>
   </div>
 </header>

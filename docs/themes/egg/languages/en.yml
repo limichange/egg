@@ -1,0 +1,11 @@
+menu:
+  guide: Guide
+  api: API
+  plugins: Plugins
+  release: Release
+
+index:
+  getstart: Get Started
+
+guide_toc:
+  overview: Overview
